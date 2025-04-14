@@ -1,0 +1,14 @@
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/bin/Debug/net8.0/Fahrzeugverleih
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/bin/Debug/net8.0/Fahrzeugverleih.deps.json
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/bin/Debug/net8.0/Fahrzeugverleih.runtimeconfig.json
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/bin/Debug/net8.0/Fahrzeugverleih.dll
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/bin/Debug/net8.0/Fahrzeugverleih.pdb
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/obj/Debug/net8.0/Fahrzeugverleih.GeneratedMSBuildEditorConfig.editorconfig
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/obj/Debug/net8.0/Fahrzeugverleih.AssemblyInfoInputs.cache
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/obj/Debug/net8.0/Fahrzeugverleih.AssemblyInfo.cs
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/obj/Debug/net8.0/Fahrzeugverleih.csproj.CoreCompileInputs.cache
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/obj/Debug/net8.0/Fahrzeugverleih.dll
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/obj/Debug/net8.0/refint/Fahrzeugverleih.dll
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/obj/Debug/net8.0/Fahrzeugverleih.pdb
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/obj/Debug/net8.0/Fahrzeugverleih.genruntimeconfig.cache
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fahrzeugverleih/obj/Debug/net8.0/ref/Fahrzeugverleih.dll

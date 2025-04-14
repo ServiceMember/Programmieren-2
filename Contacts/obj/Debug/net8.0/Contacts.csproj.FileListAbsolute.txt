@@ -1,0 +1,14 @@
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/bin/Debug/net8.0/Contacts
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/bin/Debug/net8.0/Contacts.deps.json
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/bin/Debug/net8.0/Contacts.runtimeconfig.json
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/bin/Debug/net8.0/Contacts.dll
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/bin/Debug/net8.0/Contacts.pdb
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/obj/Debug/net8.0/Contacts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/obj/Debug/net8.0/Contacts.AssemblyInfoInputs.cache
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/obj/Debug/net8.0/Contacts.AssemblyInfo.cs
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/obj/Debug/net8.0/Contacts.csproj.CoreCompileInputs.cache
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/obj/Debug/net8.0/Contacts.dll
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/obj/Debug/net8.0/refint/Contacts.dll
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/obj/Debug/net8.0/Contacts.pdb
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/obj/Debug/net8.0/Contacts.genruntimeconfig.cache
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Contacts/obj/Debug/net8.0/ref/Contacts.dll

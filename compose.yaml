@@ -1,0 +1,6 @@
+﻿services:
+  fuhrpark - prog 2 labfuhrpark-prog2lab:
+    image: fuhrpark - prog 2 labfuhrpark-prog2lab
+    build:
+      context: .
+      dockerfile: Fuhrpark - Prog 2 Lab/Dockerfile

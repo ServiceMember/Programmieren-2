@@ -1,0 +1,14 @@
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/bin/Debug/net8.0/Fuhrpark - Prog 2 Lab
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/bin/Debug/net8.0/Fuhrpark - Prog 2 Lab.deps.json
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/bin/Debug/net8.0/Fuhrpark - Prog 2 Lab.runtimeconfig.json
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/bin/Debug/net8.0/Fuhrpark - Prog 2 Lab.dll
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/bin/Debug/net8.0/Fuhrpark - Prog 2 Lab.pdb
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/obj/Debug/net8.0/Fuhrpark - Prog 2 Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/obj/Debug/net8.0/Fuhrpark - Prog 2 Lab.AssemblyInfoInputs.cache
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/obj/Debug/net8.0/Fuhrpark - Prog 2 Lab.AssemblyInfo.cs
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/obj/Debug/net8.0/Fuhrpark - Prog 2 Lab.csproj.CoreCompileInputs.cache
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/obj/Debug/net8.0/Fuhrpark - Prog 2 Lab.dll
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/obj/Debug/net8.0/refint/Fuhrpark - Prog 2 Lab.dll
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/obj/Debug/net8.0/Fuhrpark - Prog 2 Lab.pdb
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/obj/Debug/net8.0/Fuhrpark - Prog 2 Lab.genruntimeconfig.cache
+/Users/KONSTSI/RiderProjects/Fuhrpark - Prog 2 Lab/Fuhrpark - Prog 2 Lab/obj/Debug/net8.0/ref/Fuhrpark - Prog 2 Lab.dll
