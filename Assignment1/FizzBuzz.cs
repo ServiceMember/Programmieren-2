@@ -2,7 +2,10 @@ namespace Assignment1;
 
 public class FizzBuzz
 {
-   public FizzBuzz()
+   public FizzBuzz(){
+      PrintFizzBuzz();
+   }
+   public static void PrintFizzBuzz()
    {
       for (int i = 1; i <= 100; i++)
       {

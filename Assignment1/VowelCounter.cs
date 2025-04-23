@@ -2,15 +2,15 @@ namespace Assignment1;
 
 public class VowelCounter
 {
-    private readonly char[] _vowels = [ 'a', 'e', 'i', 'o', 'u' ];
+    private static readonly char[] Vowels = [ 'a', 'e', 'i', 'o', 'u' ];
 
-    public int CountVowels(string input)
+    public static int CountVowels(string input)
     {
         int count = 0;
         
         foreach (var c in input)
         {
-            foreach (var v in _vowels)
+            foreach (var v in Vowels)
             {
                 if (c == v) count++;
             }
