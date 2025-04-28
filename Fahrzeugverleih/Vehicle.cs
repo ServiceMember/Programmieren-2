@@ -1,23 +1,33 @@
 namespace Fahrzeugverleih;
 
-public class Vehicle(
-    int id,
-    string manufacturer,
-    string model,
-    int year,
-    int mileage,
-    bool isAvailable,
-    double rentalCost)
+public class Vehicle
 {
-    public int Id { get; set; } = id;
-    public string Manufacturer { get; set; } = manufacturer;
-    public string Model { get; set; } = model;
-    public int Year { get; set; } = year;
-    public int Mileage { get; set; } = mileage;
-    public bool IsAvailable { get; set; } = isAvailable;
-    public double RentalCost { get; set; } = rentalCost;
-    
-    public double CalculateRentalCost(int days)
+    private static int _id = 0;
+    public int Id { get; private set; }
+    public string Manufacturer { get; set; }
+    public string Model { get; set; }
+    public int Year { get; set; }
+    public uint Mileage { get; set; }
+    public bool IsAvailable { get; set; }
+    public double RentalCost { get; set; }
+
+    public Vehicle(
+        string manufacturer,
+        string model,
+        int year,
+        uint mileage,
+        bool isAvailable,
+        double rentalCost)
+    {
+        Id = _id++;
+        Manufacturer = manufacturer;
+        Model = model;
+        Year = year;
+        Mileage = mileage;
+        IsAvailable = isAvailable;
+        RentalCost = rentalCost;
+    }
+    public virtual double CalculateRentalCost(int days)
     {
         return days * RentalCost;
     }
