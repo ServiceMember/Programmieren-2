@@ -3,7 +3,7 @@ namespace Fahrzeugverleih;
 public class Car : Vehicle
 {
     public int DoorCount { get; set; }
-    public string FuelType { get; set; }
+    public EFuelType FuelType { get; set; }
     public double TrunkVolume { get; set; } // in liters
     
     public Car(
@@ -14,7 +14,7 @@ public class Car : Vehicle
         bool isAvailable,
         double rentalCost,
         int doorCount,
-        string fuelType,
+        EFuelType fuelType,
         double trunkVolume)
         : base(manufacturer, model, year, mileage, isAvailable, rentalCost)
     {

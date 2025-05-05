@@ -17,7 +17,7 @@ public class UnitTestCar
             isAvailable:true, 
             rentalCost:50.0,
             doorCount:4,
-            fuelType:"Petrol",
+            fuelType:0,
             trunkVolume:500.0);
     }
 
@@ -29,7 +29,7 @@ public class UnitTestCar
         Assert.Multiple(() =>
         {
             Assert.That(_myCar.DoorCount, Is.EqualTo(4));
-            Assert.That(_myCar.FuelType, Is.EqualTo("Petrol"));
+            Assert.That(_myCar.FuelType, Is.EqualTo(EFuelType.Petrol));
             Assert.That(_myCar.TrunkVolume, Is.EqualTo(500.0));
         });
     }
