@@ -1,11 +1,12 @@
 namespace A3___GenericBubbleSort;
 
-public class Sorter <T> where T : IComparable<T>
+public static class Sorter <T> where T : IComparable<T>
 {
     public static void BubbleSort(ref T[] list) 
     {
-        bool swapped;
-        do
+        bool swapped = true;
+        
+        while (swapped)
         {
             swapped = false;
             
@@ -18,6 +19,6 @@ public class Sorter <T> where T : IComparable<T>
                 swapped = true;
             }
             
-        }while (swapped);
+        };
     }
 }
