@@ -20,4 +20,10 @@ where T : class
         return temp;
     }
     
+    public int Count => _stack.Count;
+
+    public void Clear()
+    {
+        _stack.Clear();
+    }
 }

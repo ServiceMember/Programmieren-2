@@ -2,5 +2,8 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3a87c5dc_002D3096_002D4e7e_002Db64b_002D962f7d1e6cc0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestVehicleInit" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::8873160C-03AB-43D4-948D-AA48BC2DFF98::net8.0::TestFahrzeugverleih.TestVehicle&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::8873160C-03AB-43D4-948D-AA48BC2DFF98::net8.0::TestFahrzeugverleih.UnitTestCar&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::8873160C-03AB-43D4-948D-AA48BC2DFF98::net8.0::TestFahrzeugverleih.UnitTestMotorcycle&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::8873160C-03AB-43D4-948D-AA48BC2DFF98::net8.0::TestFahrzeugverleih.UnitTestTruck&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

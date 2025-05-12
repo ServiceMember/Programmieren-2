@@ -22,7 +22,7 @@ class Program
         
         //FizzBuzz
         //*
-        var fizzBuzz = new FizzBuzz();//*/
+        FizzBuzz.PrintFizzBuzz();//*/
 
         //Vowel
         //*

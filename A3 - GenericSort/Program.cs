@@ -9,7 +9,7 @@ class Program
         Console.WriteLine("Sorted array: " + string.Join(", ", array));
         
         int[] intArray = [ 3, 1, 4, 1, 5, 9 ];
-        intArray = Sorter<int>.BubbleSort(intArray);
+        intArray = Sorter<int>.SelectionSort(intArray);
         Console.WriteLine("Sorted int array: " + string.Join(", ", intArray));
     }
 }
