@@ -1,29 +1,28 @@
 namespace A3___GenericStack;
 
 public class Stack<T>
-where T : class
 {
-    private readonly List<T> _stack = [];
+    private readonly List<T> _list = [];
     
     public void Push(T item)
     {
-        _stack.Add(item);
+        _list.Add(item);
     }
 
     public T Pop()
     {
-        if (_stack.Count == 0) 
+        if (_list.Count == 0) 
             throw new InvalidOperationException("Stack is empty");
         
-        var temp = _stack.Last();
-        _stack.RemoveAt(_stack.Count - 1);
+        var temp = _list.Last();
+        _list.RemoveAt(_list.Count - 1);
         return temp;
     }
     
-    public int Count => _stack.Count;
+    public int Count => _list.Count;
 
     public void Clear()
     {
-        _stack.Clear();
+        _list.Clear();
     }
 }
