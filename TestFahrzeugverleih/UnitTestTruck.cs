@@ -1,15 +1,23 @@
 namespace TestFahrzeugverleih;
 
 using Fahrzeugverleih;
+using System.Reflection;
 
 [TestFixture]
 public class UnitTestTruck
 {
     private Truck _myTruck;
+    private int _id;
 
     [SetUp]
     public void Setup()
     {
+        
+        var fi = typeof(Vehicle)
+            .GetField("_id", BindingFlags.NonPublic | BindingFlags.Static);
+
+        _id = (fi.GetValue(null) as int?) ?? 0;
+        
         _myTruck = new Truck(
             manufacturer: "Toyota",
             model: "Corolla",
@@ -29,6 +37,7 @@ public class UnitTestTruck
         Assert.That(_myTruck, Is.Not.Null);
         Assert.Multiple(() =>
         {
+            Assert.That(_myTruck.Id, Is.EqualTo(_id));
             Assert.That(_myTruck.LoadCapacity, Is.EqualTo(1000.0));
             Assert.That(_myTruck.AxleCount, Is.EqualTo(4));
             Assert.That(_myTruck.LoadingArea, Is.EqualTo(50.0));
