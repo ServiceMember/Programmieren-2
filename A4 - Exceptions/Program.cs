@@ -4,7 +4,7 @@ namespace A4___Exceptions;
 
 class Program
 {
-    static void Main(string[] args)
+    private static void Main(string[] args)
     {
         Console.WriteLine("Bitte gib zwei ganze Zahlen ein:");
         Console.Write("Erste Zahl: ");;

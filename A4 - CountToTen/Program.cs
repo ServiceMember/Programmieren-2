@@ -2,11 +2,9 @@
 
 class Program
 {
-    private static IEnumerable<int> numbers = CountToTen();
-    
     static void Main(string[] args)
     {
-        foreach (var integer in numbers)
+        foreach (var integer in CountToTen())
         {
             Console.WriteLine(integer);
         }

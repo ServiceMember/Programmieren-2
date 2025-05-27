@@ -1,6 +1,6 @@
 namespace A4___InterfaceSort;
 
-public interface ISorter<T> where T : IComparable<T>
+public interface ISorter<T>
 {
     T[] Sort(T[] array);
 }
